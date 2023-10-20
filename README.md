@@ -1,5 +1,9 @@
 # Orchestration / Terraform
 
+## Terraform Diagram
+
+![](images/terraform-diagram.png)
+
 ## Orchestration
 
 ### What is Orchestration?
